@@ -1,0 +1,142 @@
+
+
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #fff;
+	font-family: monospace;
+}
+
+#header-nav{
+	background-color: #3333cc;
+	font-size: 30px;
+	border-radius: 0;
+	border: 0;
+	padding: 0px 0px 0px 0px;
+}
+
+#header-nav .container-fluid{
+	padding: 0px;
+}
+
+.navbar-brand {
+	position: relative;
+}
+
+.navbar-brand h1 {
+	font-weight: bold;
+	color: #fff;
+	font-size: 2em;
+	margin-top: -10px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
+
+#nav-list a {
+  color: #fff;
+  text-align: center;
+  padding: auto;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+}
+
+
+#breaker {
+	background-color: #fff;
+	height: 1px;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+.tall-section {
+	height: 2000px;
+	color: #000;
+	padding: 20px 15px 20px 15px;
+}
+
+.tall-section div{
+	background-color: #e6f2ff;
+	padding: 7.5px;
+}
+
+
+.tall-section h1{
+	font-size: 2.4em;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px 0px 30px 0px;
+}
+
+.tall-section h2{
+	font-weight: bold;
+	margin: 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+@media (max-width: 767px) {
+		.tall-section {
+		height: 1000px;
+		color: #000;
+		padding: 20px 110px 20px 110px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
